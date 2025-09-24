@@ -2,14 +2,14 @@
 
 Name: ccid
 
-#Syed Ibrahim Mansoor : syedibr1
+Syed Ibrahim Mansoor : syedibr1
 
-#Syed Reza Ali Abdi: syedreza
+Syed Reza Ali Abdi: syedreza
 
-#Hatem Almasri: haalmasr
+Hatem Almasri: haalmasr
 
-#Liam Parrell: lparrell
+Liam Parrell: lparrell
 
-#Hooman Raffieipour: raffieip
+Hooman Raffieipour: raffieip
 
-#Jesse Muotoh: jmuotoh
+Jesse Muotoh: jmuotoh
